@@ -39,6 +39,9 @@ if 7 == 7:
 if 7 == 7:
     print("yes")
 
+def numbers():
+    print(17)
+    
 # DRY don't repeat yourself
 
 
